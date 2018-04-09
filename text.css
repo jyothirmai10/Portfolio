@@ -1,0 +1,16 @@
+.parent{
+	background-color:tomato;
+	height:70vh;
+	width: 50vw;
+}
+.parent .child1{
+	background-color:lime;
+	height: 50vh;
+	width: 60vw;
+}
+.parent .child2{
+	background-color:blue;
+	height: 25vmin;
+	width: 10vmin;
+
+}
